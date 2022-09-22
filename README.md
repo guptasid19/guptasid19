@@ -1,5 +1,6 @@
-### Hi there, I am Siddhant Gupta! 👋
-
+    Hi there, I am Siddhant Gupta!👋
+    Things to know about me:
+    I am an undergraduate student at Pitt learning Python.
 <!--
 **guptasid19/guptasid19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
